@@ -49,7 +49,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/centralized-rabbitmq-microservices.git
+   git clone https://github.com/noahwillson/centralized-rabbitmq-microservices.git
    cd centralized-rabbitmq-microservices
    ```
 
